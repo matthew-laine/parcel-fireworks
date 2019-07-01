@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,EACI,qBAAsB,CACtB,QAAS,CACT,SACJ,CAEA,WACI,YAAY,CACZ,UAAU,CACV,qBACJ","file":"src.729b2427.css","sourceRoot":"../src","sourcesContent":["*{\n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;   \n}\n\n#container {\n    height:100vh;\n    width:100%;\n    background-color: black;\n}"]}
