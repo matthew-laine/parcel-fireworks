@@ -3,7 +3,7 @@ import Fireworks from "fireworks-canvas"
 
 export default () => {
     const container = document.getElementById("container")
-    const fireworks = new Fireworks(container)
+    const fireworks = new Fireworks(container, options)
     const options = {
         maxRockets:7,
         rocketSpawnInterval: 100,
